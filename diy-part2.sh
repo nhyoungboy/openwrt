@@ -9,8 +9,8 @@
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
 #
-# rm -rf feeds/luci/applications/luci-app-mosdns 
-# rm -rf feeds/packages/net/mosdns
+rm -rf feeds/luci/applications/luci-app-mosdns 
+rm -rf feeds/packages/net/mosdns
 # rm -rf feeds/luci/applications/luci-app-openclash
 
 # 修改网络设置
